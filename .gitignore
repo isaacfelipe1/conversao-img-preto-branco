@@ -1,0 +1,5 @@
+*.pyc
+venv/
+.vscode/
+.idea/
+img_preto_branco/
